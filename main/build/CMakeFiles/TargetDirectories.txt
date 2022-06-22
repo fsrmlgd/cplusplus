@@ -1,0 +1,3 @@
+/home/fsrmlgd/tools/code/Cplus-demo/main/build/CMakeFiles/rebuild_cache.dir
+/home/fsrmlgd/tools/code/Cplus-demo/main/build/CMakeFiles/edit_cache.dir
+/home/fsrmlgd/tools/code/Cplus-demo/main/build/CMakeFiles/main.dir

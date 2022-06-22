@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/fsrmlgd/tools/code/Cplus-demo/main/build",
+  "command": "/bin/clang++-13 -DMATPLOT_BUILD_HIGH_RESOLUTION_WORLD_MAP -DNOMINMAX  -g -std=gnu++17 -o CMakeFiles/main.dir/main.cpp.o -c /home/fsrmlgd/tools/code/Cplus-demo/main/src/main.cpp",
+  "file": "/home/fsrmlgd/tools/code/Cplus-demo/main/src/main.cpp"
+}
+]

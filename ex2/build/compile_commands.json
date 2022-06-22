@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/fsrmlgd/tools/code/Cplus-demo/ex2/build",
+  "command": "/bin/clang++-13 -O3 -DNDEBUG -o CMakeFiles/main.dir/main.cpp.o -c /home/fsrmlgd/tools/code/Cplus-demo/ex2/src/main.cpp",
+  "file": "/home/fsrmlgd/tools/code/Cplus-demo/ex2/src/main.cpp"
+},
+{
+  "directory": "/home/fsrmlgd/tools/code/Cplus-demo/ex2/build",
+  "command": "/bin/clang++-13 -O3 -DNDEBUG -o CMakeFiles/main.dir/calc.cpp.o -c /home/fsrmlgd/tools/code/Cplus-demo/ex2/src/calc.cpp",
+  "file": "/home/fsrmlgd/tools/code/Cplus-demo/ex2/src/calc.cpp"
+}
+]

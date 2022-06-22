@@ -1,0 +1,6 @@
+# ninja log v5
+0	66	1648472717889436185	CMakeFiles/main.dir/main.c.o	6d0f0c86e47249e8
+49	141	1649690663450259346	main	9e09f676b872d9f3
+1	29	1648310649846665669	CMakeFiles/main.dir/calc.c.o	4e13d3d929f472da
+1	46	1649690663350259345	CMakeFiles/main.dir/main.cpp.o	82b45dfd71fccd5f
+1	49	1649690663350259345	CMakeFiles/main.dir/calc.cpp.o	89a226f3abf5d953
