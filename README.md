@@ -1,2 +1,2 @@
 # cplusplus
-some test from books
+-- There are some tests from programming books
